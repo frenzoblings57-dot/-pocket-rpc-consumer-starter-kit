@@ -1,0 +1,4 @@
+services:
+  pocket-rpc-example:
+    build: .
+    command: ["--chain", "eth"]
